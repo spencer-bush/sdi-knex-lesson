@@ -1,0 +1,19 @@
+{
+  "name": "sdi-knex-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencer-bush/sdi-knex-lesson.git"
+  },
+  "author": "Spencer Bush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencer-bush/sdi-knex-lesson/issues"
+  },
+  "homepage": "https://github.com/spencer-bush/sdi-knex-lesson#readme"
+}
